@@ -1,0 +1,1 @@
+# Simple boilerplate for a code mirror for my persona learning and future use in websites
